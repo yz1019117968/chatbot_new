@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a81ad89a84b9cf3f604b234a27c422c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e8d6dd6f947e95fc0d753e3dd6d4b24f\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\115868f63aa20a9220296963f79ccac3\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\2de094a3e157b529611d5102b432b9b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b96d8d675240d6f11a1b9458409f369f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\994a87007ef1b4be91679ce38bd606e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a1291b78ecf8e9798c843a2e7537ed9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7003e7d7c75ed9093e7a75c3d9491313\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7f03b50f4dbbba0fd1834e431da2c252\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\fa72a150a6b0dbc5e18448b3b52d3b42\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4b157428d9fed5ffb667159c97fdd2bf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bd865227d57ccf16401355757ec7a542\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\332c048435d686187f8991bd59a9bb16\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:18:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:27:22-62
+application
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:30:5-51:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e8d6dd6f947e95fc0d753e3dd6d4b24f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e8d6dd6f947e95fc0d753e3dd6d4b24f\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\115868f63aa20a9220296963f79ccac3\AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\115868f63aa20a9220296963f79ccac3\AndroidManifest.xml:8:5-20
+	android:supportsRtl
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:36:9-35
+	android:label
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:34:9-41
+	android:roundIcon
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:35:9-54
+	android:icon
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:33:9-43
+	android:allowBackup
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:32:9-35
+	android:theme
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:37:9-40
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:31:9-40
+activity#com.tensorflow.chatinterface.ui.ChatActivity
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:40:9-49:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:44:13-39
+	android:windowSoftInputMode
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:43:13-65
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:41:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:45:13-48:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:47:27-74
+meta-data#IFLYTEK_APPKEY
+ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:53:5-83
+	android:value
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:53:16-40
+	android:name
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml:53:41-70
+uses-sdk
+INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a81ad89a84b9cf3f604b234a27c422c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a81ad89a84b9cf3f604b234a27c422c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e8d6dd6f947e95fc0d753e3dd6d4b24f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e8d6dd6f947e95fc0d753e3dd6d4b24f\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\115868f63aa20a9220296963f79ccac3\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\115868f63aa20a9220296963f79ccac3\AndroidManifest.xml:5:5-6:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\2de094a3e157b529611d5102b432b9b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\2de094a3e157b529611d5102b432b9b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b96d8d675240d6f11a1b9458409f369f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b96d8d675240d6f11a1b9458409f369f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\994a87007ef1b4be91679ce38bd606e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\994a87007ef1b4be91679ce38bd606e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a1291b78ecf8e9798c843a2e7537ed9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a1291b78ecf8e9798c843a2e7537ed9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7003e7d7c75ed9093e7a75c3d9491313\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7003e7d7c75ed9093e7a75c3d9491313\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7f03b50f4dbbba0fd1834e431da2c252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7f03b50f4dbbba0fd1834e431da2c252\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\fa72a150a6b0dbc5e18448b3b52d3b42\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\fa72a150a6b0dbc5e18448b3b52d3b42\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4b157428d9fed5ffb667159c97fdd2bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4b157428d9fed5ffb667159c97fdd2bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bd865227d57ccf16401355757ec7a542\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bd865227d57ccf16401355757ec7a542\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\332c048435d686187f8991bd59a9bb16\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\332c048435d686187f8991bd59a9bb16\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\CityUCourse\Project&Guided_Study\coding-267\Android\ChatInterface\app\src\main\AndroidManifest.xml

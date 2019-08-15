@@ -1,0 +1,4 @@
+#Tue Aug 13 12:45:56 CST 2019
+base.0=C\:\\Users\\user\\Desktop\\CityUCourse\\Project&Guided_Study\\coding-267\\Android\\ChatInterface\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
